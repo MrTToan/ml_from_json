@@ -1,0 +1,2 @@
+[ { "model": "RandomForestClassifier", "params": {"n_estimators": [10, 15], "max_depth": [10, 12]} },
+ { "model": "XGBClassifier", "params": {"max_depth": [3, 5]}} ]
